@@ -1,7 +1,7 @@
 # feuilletnumerique
-# Protocole Entretiens et des Résultats
+# Protocole Enquête et Résultats des enquêtes
 
-## 1) Les site Web pour les entretiens et pour les analyses des résultats
+## 1) Les site Web pour les enquêtes et pour les analyses des résultats des enquêtes
 
 ### 1.1) Architecture du site Web pour les entretiens (interfaces utilisateurs)
 Un site est complètement dédié à l’unique période des entretiens. Les médiateurs culturels interrogés s’y connecte grâce à un identifiant individuel. Préalablement, le chercheur (l’administrateur) crée un compte Omeka-s privé et personnel à chacun des participants.
