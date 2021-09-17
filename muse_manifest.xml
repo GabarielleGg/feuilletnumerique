@@ -1,44 +1,83 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://gabariellegg.github.io/criblesEntretiensThese" resolutions="1x" timestamp="1626986802571">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://gabariellegg.github.io/criblesEntretiensThese" resolutions="1x" timestamp="1631889020166">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_master_credits.css" crc="4271902832" ref="creditsrecherche"/>
+    <file name="master_master_repondrecribles.css" crc="4090152302" ref="3_2criblesreptecconnum:1_1criblesrepmedcult:1_2criblesrepmedcult:2_2criblesrepdisnum:2_1criblesrepdisnum:1_3criblesrepmedcult:3_1criblesreptecconnum"/>
     <file name="master_master_home.css" crc="4051789503" ref="index"/>
+    <file name="master_master_fincribles.css" crc="3775759648" ref="criblesfinrep"/>
+    <file name="master_master_rouesresultats.css" crc="3863763841" ref="0_3tecconnexploresultats:2_1exploresultats:ensembleexploresultats:1_1exploresultats:0_1medexploresultats:1_2exploresultats:aleatoireexploresultats:3_2exploresultats:2_2exploresultats:0_2dispexploresultats:3_1exploresultats"/>
+    <file name="master_master_credits.css" crc="4129868429" ref="creditsrecherche"/>
+    <file name="master_master_arboresultats.css" crc="3825801736" ref="arboexplorresultats"/>
     <file name="master_master_protocole.css" crc="4042165702" ref="protocole"/>
-    <file name="master_master_repondreenquete.css" crc="4210973025" ref="arbo_repondreenquete"/>
-    <file name="master_master_resultats.css" crc="4041067970" ref="exploresultats"/>
-    <file name="master_master_repondrecribles.css" crc="3798555865" ref="criblesrepmedcult:criblesreptecconnum:criblesrepdisnum"/>
-    <file name="master_master_fincribles.css" crc="3791134505" ref="criblesfinrep"/>
-    <file name="criblesrepmedcult.css" crc="3806999023" ref="criblesrepmedcult"/>
+    <file name="master_master_repondreenquete.css" crc="407327579" ref="arbo_repondreenquete"/>
     <file name="index.css" crc="272649501" ref="index"/>
-    <file name="arbo_repondreenquete.css" crc="381248871" ref="arbo_repondreenquete"/>
-    <file name="criblesreptecconnum.css" crc="4112722886" ref="criblesreptecconnum"/>
-    <file name="criblesrepdisnum.css" crc="4052805860" ref="criblesrepdisnum"/>
+    <file name="3_2criblesreptecconnum.css" crc="310010475" ref="3_2criblesreptecconnum"/>
+    <file name="1_1criblesrepmedcult.css" crc="3904583076" ref="1_1criblesrepmedcult"/>
     <file name="criblesfinrep.css" crc="385050779" ref="criblesfinrep"/>
-    <file name="exploresultats.css" crc="4251155217" ref="exploresultats"/>
-    <file name="creditsrecherche.css" crc="333715535" ref="creditsrecherche"/>
+    <file name="0_3tecconnexploresultats.css" crc="178546109" ref="0_3tecconnexploresultats"/>
+    <file name="2_1exploresultats.css" crc="215981447" ref="2_1exploresultats"/>
+    <file name="ensembleexploresultats.css" crc="4208827016" ref="ensembleexploresultats"/>
+    <file name="1_2criblesrepmedcult.css" crc="3966025111" ref="1_2criblesrepmedcult"/>
+    <file name="1_1exploresultats.css" crc="3881718027" ref="1_1exploresultats"/>
+    <file name="0_1medexploresultats.css" crc="3949586085" ref="0_1medexploresultats"/>
+    <file name="1_2exploresultats.css" crc="372561813" ref="1_2exploresultats"/>
     <file name="protocole.css" crc="227012020" ref="protocole"/>
+    <file name="aleatoireexploresultats.css" crc="3971632241" ref="aleatoireexploresultats"/>
+    <file name="3_2exploresultats.css" crc="482298488" ref="3_2exploresultats"/>
+    <file name="2_2criblesrepdisnum.css" crc="313171954" ref="2_2criblesrepdisnum"/>
+    <file name="arbo_repondreenquete.css" crc="300127241" ref="arbo_repondreenquete"/>
+    <file name="2_1criblesrepdisnum.css" crc="4043992483" ref="2_1criblesrepdisnum"/>
+    <file name="2_2exploresultats.css" crc="4068548270" ref="2_2exploresultats"/>
+    <file name="1_3criblesrepmedcult.css" crc="224591354" ref="1_3criblesrepmedcult"/>
+    <file name="3_1criblesreptecconnum.css" crc="359689525" ref="3_1criblesreptecconnum"/>
+    <file name="0_2dispexploresultats.css" crc="192760573" ref="0_2dispexploresultats"/>
+    <file name="arboexplorresultats.css" crc="4155568496" ref="arboexplorresultats"/>
+    <file name="creditsrecherche.css" crc="4039428273" ref="creditsrecherche"/>
+    <file name="3_1exploresultats.css" crc="3759869981" ref="3_1exploresultats"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="museutils.js" crc="4155826306" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="whatinput.js" crc="86476730" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="museconfig.js" crc="483509463" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="require.js" crc="228336483" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="pie.js" crc="3827607177" ref="arbo_repondreenquete:criblesrepmedcult:criblesfinrep:exploresultats"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="museutils.js" crc="4155826306" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="whatinput.js" crc="86476730" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="museconfig.js" crc="483509463" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="require.js" crc="228336483" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="pie.js" crc="3827607177" ref="arbo_repondreenquete:1_1criblesrepmedcult:criblesfinrep:1_1exploresultats:arboexplorresultats"/>
   </folder>
   <folder name="images">
-    <file name="logoparagraphe.jpg" crc="463479423" seo="true" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="logop8.jpg" crc="161171875" seo="true" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
-    <file name="logo-ulaval-reseaux-sociaux.jpg" crc="4028071778" seo="true" ref="index:protocole:arbo_repondreenquete:criblesrepmedcult:criblesrepdisnum:criblesreptecconnum:criblesfinrep:exploresultats:creditsrecherche"/>
+    <file name="logoparagraphe.jpg" crc="463479423" seo="true" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="logop8.jpg" crc="161171875" seo="true" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="logo-ulaval-reseaux-sociaux.jpg" crc="4028071778" seo="true" ref="index:protocole:arbo_repondreenquete:1_1criblesrepmedcult:2_1criblesrepdisnum:3_1criblesreptecconnum:criblesfinrep:1_1exploresultats:creditsrecherche:1_2criblesrepmedcult:1_3criblesrepmedcult:2_2criblesrepdisnum:3_2criblesreptecconnum:1_2exploresultats:arboexplorresultats:ensembleexploresultats:2_1exploresultats:2_2exploresultats:3_1exploresultats:3_2exploresultats:aleatoireexploresultats:0_1medexploresultats:0_2dispexploresultats:0_3tecconnexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 153354.jpg" crc="4282834661" seo="true" ref="1_1exploresultats:ensembleexploresultats:0_1medexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 154818.jpg" crc="4210260731" seo="true" ref="1_1exploresultats:0_1medexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 154842.jpg" crc="3883249023" seo="true" ref="1_1exploresultats:0_1medexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 153417.jpg" crc="4017337129" seo="true" ref="ensembleexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 153503.jpg" crc="484943515" seo="true" ref="ensembleexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 153443.jpg" crc="123360470" seo="true" ref="ensembleexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 160128.jpg" crc="486009317" seo="true" ref="aleatoireexploresultats"/>
+    <file name="capture d’écran, le 2021-09-17 à 160105.jpg" crc="4195020748" seo="true" ref="aleatoireexploresultats"/>
   </folder>
-  <file name="index.html" crc="3982921643" seo="true" mt="1626986422739" redirect="true"/>
-  <file name="protocole.html" crc="106935138" seo="true" mt="1626986471240" redirect="true"/>
-  <file name="arbo_repondreenquete.html" crc="99655021" seo="true" mt="1626986517857" redirect="true"/>
-  <file name="criblesrepmedcult.html" crc="3836214684" seo="true" mt="1626986566830" redirect="true"/>
-  <file name="criblesrepdisnum.html" crc="4155623381" seo="true" mt="1626986566830" redirect="true"/>
-  <file name="criblesreptecconnum.html" crc="263849318" seo="true" mt="1626986566830" redirect="true"/>
-  <file name="criblesfinrep.html" crc="163584368" seo="true" mt="1626986614617" redirect="true"/>
-  <file name="exploresultats.html" crc="4093492348" seo="true" mt="1626986661509" redirect="true"/>
-  <file name="creditsrecherche.html" crc="417146223" seo="true" mt="1626986706089" redirect="true"/>
+  <file name="index.html" crc="215527418" seo="true" mt="1631882089535" redirect="true"/>
+  <file name="protocole.html" crc="4231981034" seo="true" mt="1631878914688" redirect="true"/>
+  <file name="arbo_repondreenquete.html" crc="3930997827" seo="true" mt="1631888573921" redirect="true"/>
+  <file name="1_1criblesrepmedcult.html" crc="55507183" seo="true" mt="1631881493379" redirect="true"/>
+  <file name="2_1criblesrepdisnum.html" crc="4130471531" seo="true" mt="1631881493379" redirect="true"/>
+  <file name="3_1criblesreptecconnum.html" crc="4096199465" seo="true" mt="1631881493379" redirect="true"/>
+  <file name="criblesfinrep.html" crc="528689218" seo="true" mt="1631888189258" redirect="true"/>
+  <file name="1_1exploresultats.html" crc="4024106331" seo="true" mt="1631888854754" redirect="true"/>
+  <file name="creditsrecherche.html" crc="297909477" seo="true" mt="1631888270324" redirect="true"/>
+  <file name="1_2criblesrepmedcult.html" crc="451821258" seo="true" mt="1631886785034" redirect="true"/>
+  <file name="1_3criblesrepmedcult.html" crc="416574790" seo="true" mt="1631881493379" redirect="true"/>
+  <file name="2_2criblesrepdisnum.html" crc="303649580" seo="true" mt="1631881493379" redirect="true"/>
+  <file name="3_2criblesreptecconnum.html" crc="99241153" seo="true" mt="1631881493379" redirect="true"/>
+  <file name="1_2exploresultats.html" crc="456393243" seo="true" mt="1631888505668" redirect="true"/>
+  <file name="arboexplorresultats.html" crc="4219429079" seo="true" mt="1631888607027" redirect="true"/>
+  <file name="ensembleexploresultats.html" crc="3771805587" seo="true" mt="1631888792737" redirect="true"/>
+  <file name="2_1exploresultats.html" crc="4179875229" seo="true" mt="1631888900648" redirect="true"/>
+  <file name="2_2exploresultats.html" crc="3995387719" seo="true" mt="1631888910732" redirect="true"/>
+  <file name="3_1exploresultats.html" crc="3845083994" seo="true" mt="1631888927802" redirect="true"/>
+  <file name="3_2exploresultats.html" crc="245266768" seo="true" mt="1631888939997" redirect="true"/>
+  <file name="aleatoireexploresultats.html" crc="4080302092" seo="true" mt="1631888833188" redirect="true"/>
+  <file name="0_1medexploresultats.html" crc="103500094" seo="true" mt="1631888843548" redirect="true"/>
+  <file name="0_2dispexploresultats.html" crc="27583044" seo="true" mt="1631888886951" redirect="true"/>
+  <file name="0_3tecconnexploresultats.html" crc="421275588" seo="true" mt="1631888920969" redirect="true"/>
 </manifest>

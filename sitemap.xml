@@ -2,73 +2,211 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gabariellegg.github.io/criblesEntretiensThese/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://gabariellegg.github.io/criblesEntretiensThese/criblesrepmedcult.html</loc>
-    <lastmod>2021-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://gabariellegg.github.io/criblesEntretiensThese/criblesrepdisnum.html</loc>
-    <lastmod>2021-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://gabariellegg.github.io/criblesEntretiensThese/exploresultats.html</loc>
-    <lastmod>2021-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://gabariellegg.github.io/criblesEntretiensThese/protocole.html</loc>
-    <lastmod>2021-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://gabariellegg.github.io/criblesEntretiensThese/arbo_repondreenquete.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://gabariellegg.github.io/criblesEntretiensThese/criblesfinrep.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/1_1exploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://gabariellegg.github.io/criblesEntretiensThese/creditsrecherche.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://gabariellegg.github.io/criblesEntretiensThese/criblesreptecconnum.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/0_2dispexploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/0_1medexploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/0_3tecconnexploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/3_2exploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/3_1exploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/aleatoireexploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/2_1exploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/ensembleexploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/protocole.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/arbo_repondreenquete.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/1_1criblesrepmedcult.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/2_1criblesrepdisnum.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/3_1criblesreptecconnum.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/1_3criblesrepmedcult.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/2_2criblesrepdisnum.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/2_2exploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/1_2criblesrepmedcult.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/3_2criblesreptecconnum.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/1_2exploresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/arboexplorresultats.html</loc>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/logoparagraphe.jpg</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/logop8.jpg</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20153443.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20160105.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20160128.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20154842.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20153503.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20153417.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/logo-ulaval-reseaux-sociaux.jpg</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20154818.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://gabariellegg.github.io/criblesEntretiensThese/images/capture%20d%E2%80%99%C3%A9cran,%20le%202021-09-17%20%C3%A0%20153354.jpg</loc>
+    <lastmod>2021-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
